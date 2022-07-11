@@ -165,21 +165,6 @@ If you want to know about the Phase I, you can see the backend repository here.
 ***
 ## **Deploy**
 
-Frontend deployed AWS: https://master.d3s9s5rx5vhbgt.amplifyapp.com/
-
-Admin Login: 
-email: pedro@gmail.com
-password: 123456
-
-Coach Login:
-email: david@gmail.com
-password: 123456
-
-User Login:
-email: mariana@gmail.com
-password: 123456
-
-
 
 <a name="id8"></a>
 ***
